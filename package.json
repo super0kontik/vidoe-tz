@@ -12,7 +12,7 @@
   "dependencies": {
     "binaryjs": "^0.2.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ffprobe": "^1.1.0",
     "video-thumbnail-generator": "^1.1.3"
   },
